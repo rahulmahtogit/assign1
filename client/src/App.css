@@ -1,0 +1,17 @@
+*{
+  box-sizing: border-box;
+}
+.color-theme-menu {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.color-theme-label {
+  margin-right: 8px;
+}
+
+.MuiSelect-select.MuiSelect-select {
+  padding: 50px;
+  background-color: #f0f0f0;
+}
